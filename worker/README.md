@@ -2,5 +2,5 @@
 
 * Build Status
 
-[![Build Status](http://10.1.10.21:8080/buildStatus/icon?job=worker-build)]
-(http://10.1.10.21:8080/job/worker-build/)
+[![Build Status](http://98.33.228.209:8080/buildStatus/icon?job=worker-build)]
+(http://98.33.228.209:8080/job/worker-build/)
